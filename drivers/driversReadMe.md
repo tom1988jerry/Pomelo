@@ -1,4 +1,2 @@
 # quectel_spi
-ÒÆÔ¶AG35 spiÇı¶¯
-
-
+ç§»è¿œAG35 spié©±åŠ¨
